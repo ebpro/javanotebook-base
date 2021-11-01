@@ -29,8 +29,8 @@
   <servers>
     <server>
       <id>github</id>
-       <username>emmanuelbruno</username>
-       <password>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</password>
+       <username>MY_GITHUB_LOGIN</username>
+       <password>MY_GITHUB_TOKEN</password>
     </server>
   </servers>
 </settings>
