@@ -1,2 +1,4 @@
 codeserver
 .ipynb_checkpoints
+target
+.project
